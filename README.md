@@ -314,7 +314,7 @@ flowchart LR
 </details>
 
 <details>
-  <summary><b>⚛️ 08. Quantum Computing Basics — Qiskit Lab</b></summary>
+  <summary><b>⚛️ 07. Quantum Computing Basics — Qiskit Lab</b></summary>
   <br/>
   <p><img src="https://img.shields.io/badge/Personal_project_%C2%B7_In_progress-6929C4?style=for-the-badge" alt="Personal project · In progress"/></p>
   <ul>
