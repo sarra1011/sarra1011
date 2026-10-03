@@ -25,6 +25,10 @@
 🎯 FOCUS  : Bridging Deep Learning Research with Edge Hardware & Agents
 🔥 MISSION: Seeking an AI / Intelligent-IoT Internship Abroad!
 ========================================================================
+```
+
+</div>
+
 <hr/>
 
 ### 🛰️ Core Specializations & Domain Focus
