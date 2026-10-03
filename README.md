@@ -28,16 +28,14 @@
     <td width="50%" valign="top">
       <h4>🤖 Agentic AI & DevOps Automation</h4>
       <p>Autonomous multi-agent systems (LangGraph, CrewAI, RAG) for firmware code analysis, AST DAG graph execution, CI/CD pipeline profiling, and automated incident response.</p>
-      <h4>🌐 Federated Learning & Digital Twins</h4>
-      <p>Event-driven federated learning (Flower, FedAvg) over non-IID edge nodes and fog pipelines (Kafka) for intelligent zero-trust agricultural digital twins.</p>
-      <h4>🔬 Quantum Computing & Exploration</h4>
-      <p>Quantum circuit simulation (Qiskit) exploring superposition, entanglement, elementary gates, Grover’s search, and amplitude amplification algorithms.</p>
-    </td>
-    <td width="50%" valign="top">
       <h4>👁️ Computer Vision & Speech AI</h4>
       <p>Domain generalization (CLIP-DRDG), real-time segmentation (YOLOv8), and low-resource code-switched voice agent pipelines with LoRA fine-tuning.</p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🛡️ Cyber-Physical Systems & SOC Security</h4>
       <p>On-node TinyML, LoRA sensor networks, zero-trust security modeling, anti-spoofing protocols, and ML-powered SIEM anomaly detection with Explainable AI (XAI).</p>
+      <h4>🔬 Quantum Computing & Exploration</h4>
+      <p>Quantum circuit simulation (Qiskit) exploring superposition, entanglement, elementary gates, Grover’s search, and amplitude amplification algorithms.</p>
     </td>
   </tr>
 </table>
@@ -54,7 +52,7 @@
 | :--- | :--- |
 | **Languages** | Python, C, C++, SQL, Bash, Groovy, JavaScript |
 | **AI / ML / CV** | PyTorch, TensorFlow, OpenCV, Scikit-Learn, XGBoost, Deep Learning, Computer Vision (YOLOv8, CLIP-DRDG), Anomaly Detection |
-| **Federated & Speech AI** | Federated Learning (Flower, FedAvg), LoRA Fine-Tuning, STT Benchmarking (Whisper, Deepgram, ElevenLabs), Pipecat, TTS, Hugging Face |
+| **Speech AI & Fine-Tuning** | LoRA Fine-Tuning, STT Benchmarking (Whisper, Deepgram, ElevenLabs), Pipecat, TTS, Hugging Face |
 | **LLM & Multi-Agent** | LangGraph, CrewAI, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Prompt Engineering, LLM APIs |
 | **Data & Backend** | FastAPI, REST APIs, PostgreSQL, Kafka, Pandas, NumPy, React, HTML/CSS |
 | **DevOps & MLOps** | Jenkins, GitHub Actions, Gerrit, Docker, Git/GitHub, Linux |
@@ -112,16 +110,7 @@
 </details>
 
 <details>
-  <summary><b>🌱 05. Intelligent Agricultural Digital Twin — CRISTAL Laboratory</b></summary>
-  <br/>
-  <ul>
-    <li><b>Federated Learning:</b> Implemented event-driven federated learning using Flower and FedAvg across 5 simulated non-IID client farms (PyTorch MLP) without centralizing raw field data[cite: 1].</li>
-    <li><b>ML Criticality Classification:</b> Modeled an 8-class environmental stress/failure classifier feeding an agentic decision layer over a Kafka fog computing pipeline[cite: 1].</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🏥 06. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
+  <summary><b>🏥 05. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
   <br/>
   <ul>
     <li><b>Domain Generalization:</b> Extended CLIP-DRDG (CoOpLVT), a vision-language framework, for diabetic retinopathy grading across 4 clinical domains (APTOS, EyePACS, Messidor, Messidor-2)[cite: 1].</li>
@@ -130,7 +119,7 @@
 </details>
 
 <details>
-  <summary><b>🛡️ 07. AI-Based SOC Anomaly Detection System</b></summary>
+  <summary><b>🛡️ 06. AI-Based SOC Anomaly Detection System</b></summary>
   <br/>
   <ul>
     <li>Integrated machine learning intrusion detection models with Wazuh SIEM to identify suspicious authentication patterns and attack behaviors[cite: 1].</li>
@@ -149,6 +138,6 @@
 
 <br/><br/>
 
-📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)[cite: 1]
+@**sarra1011** | 📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)[cite: 1]
 
 </div>
