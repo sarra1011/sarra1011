@@ -58,17 +58,113 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,docker,git,github,linux,bash,react,pytorch" /><br/>
 </p>
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, C, C++, SQL, Bash, Groovy, JavaScript |
-| **AI / ML / CV** | PyTorch, TensorFlow, OpenCV, Scikit-Learn, XGBoost, Deep Learning, Computer Vision (YOLOv8, CLIP-DRDG), Anomaly Detection |
-| **Speech AI & Fine-Tuning** | LoRA Fine-Tuning, STT Benchmarking (Whisper, Deepgram, ElevenLabs), Pipecat, TTS, Hugging Face |
-| **LLM & Multi-Agent** | LangGraph, CrewAI, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Prompt Engineering, LLM APIs |
-| **Data & Backend** | FastAPI, REST APIs, PostgreSQL, Kafka, Pandas, NumPy, React, HTML/CSS |
-| **DevOps & MLOps** | Jenkins, GitHub Actions, Gerrit, Docker, Git/GitHub, Linux |
-| **IoT, Embedded & Edge** | ESP32 / ESP32-CAM, Arduino, LoRA, MQTT, TinyML, Edge AI Deployment |
-| **Systems & Cyber-Physical** | Distributed Systems, RTOS, Virtualization, Parallel Programming, IoT Security, Cyber-Physical Systems, Soft Computing |
-| **Quantum Computing** | Qiskit, Quantum Circuits, Grover's Algorithm |
+<table>
+  <tr>
+    <td width="26%" valign="middle"><b>💻 Languages</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
+      <img src="https://img.shields.io/badge/C-3776AB?style=flat-square" alt="C"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-3776AB?style=flat-square" alt="C++"/>
+      <img src="https://img.shields.io/badge/SQL-3776AB?style=flat-square" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Bash-3776AB?style=flat-square" alt="Bash"/>
+      <img src="https://img.shields.io/badge/Groovy-3776AB?style=flat-square" alt="Groovy"/>
+      <img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>🧠 AI / ML / CV</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/OpenCV-FF6F00?style=flat-square" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=flat-square" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" alt="Deep Learning"/>
+      <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/CLIP--DRDG-FF6F00?style=flat-square" alt="CLIP-DRDG"/>
+      <img src="https://img.shields.io/badge/Anomaly_Detection-FF6F00?style=flat-square" alt="Anomaly Detection"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>🎙️ Speech AI & Fine-Tuning</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/LoRA_Fine--Tuning-E91E63?style=flat-square" alt="LoRA Fine-Tuning"/>
+      <img src="https://img.shields.io/badge/STT_Benchmarking-E91E63?style=flat-square" alt="STT Benchmarking"/>
+      <img src="https://img.shields.io/badge/Whisper-E91E63?style=flat-square" alt="Whisper"/>
+      <img src="https://img.shields.io/badge/Deepgram-E91E63?style=flat-square" alt="Deepgram"/>
+      <img src="https://img.shields.io/badge/ElevenLabs-E91E63?style=flat-square" alt="ElevenLabs"/>
+      <img src="https://img.shields.io/badge/Pipecat-E91E63?style=flat-square" alt="Pipecat"/>
+      <img src="https://img.shields.io/badge/TTS-E91E63?style=flat-square" alt="TTS"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-E91E63?style=flat-square" alt="Hugging Face"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>🤖 LLM & Multi-Agent</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/LangGraph-7B2FF7?style=flat-square" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/CrewAI-7B2FF7?style=flat-square" alt="CrewAI"/>
+      <img src="https://img.shields.io/badge/RAG-7B2FF7?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-7B2FF7?style=flat-square" alt="Multi-Agent Orchestration"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=flat-square" alt="Prompt Engineering"/>
+      <img src="https://img.shields.io/badge/LLM_APIs-7B2FF7?style=flat-square" alt="LLM APIs"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>🗄️ Data & Backend</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-009688?style=flat-square" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Kafka-009688?style=flat-square" alt="Kafka"/>
+      <img src="https://img.shields.io/badge/Pandas-009688?style=flat-square" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-009688?style=flat-square" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/React-009688?style=flat-square" alt="React"/>
+      <img src="https://img.shields.io/badge/HTML%2FCSS-009688?style=flat-square" alt="HTML/CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>⚙️ DevOps & MLOps</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/Jenkins-2496ED?style=flat-square" alt="Jenkins"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat-square" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Gerrit-2496ED?style=flat-square" alt="Gerrit"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git%2FGitHub-2496ED?style=flat-square" alt="Git/GitHub"/>
+      <img src="https://img.shields.io/badge/Linux-2496ED?style=flat-square" alt="Linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>📡 IoT, Embedded & Edge</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/ESP32_%2F_ESP32--CAM-00A86B?style=flat-square" alt="ESP32 / ESP32-CAM"/>
+      <img src="https://img.shields.io/badge/Arduino-00A86B?style=flat-square" alt="Arduino"/>
+      <img src="https://img.shields.io/badge/LoRa-00A86B?style=flat-square" alt="LoRa"/>
+      <img src="https://img.shields.io/badge/MQTT-00A86B?style=flat-square" alt="MQTT"/>
+      <img src="https://img.shields.io/badge/TinyML-00A86B?style=flat-square" alt="TinyML"/>
+      <img src="https://img.shields.io/badge/Edge_AI_Deployment-00A86B?style=flat-square" alt="Edge AI Deployment"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>🛰️ Systems & Cyber-Physical</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/Distributed_Systems-607D8B?style=flat-square" alt="Distributed Systems"/>
+      <img src="https://img.shields.io/badge/RTOS-607D8B?style=flat-square" alt="RTOS"/>
+      <img src="https://img.shields.io/badge/Virtualization-607D8B?style=flat-square" alt="Virtualization"/>
+      <img src="https://img.shields.io/badge/Parallel_Programming-607D8B?style=flat-square" alt="Parallel Programming"/>
+      <img src="https://img.shields.io/badge/IoT_Security-607D8B?style=flat-square" alt="IoT Security"/>
+      <img src="https://img.shields.io/badge/Cyber--Physical_Systems-607D8B?style=flat-square" alt="Cyber-Physical Systems"/>
+      <img src="https://img.shields.io/badge/Soft_Computing-607D8B?style=flat-square" alt="Soft Computing"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="middle"><b>⚛️ Quantum Computing</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square" alt="Qiskit"/>
+      <img src="https://img.shields.io/badge/Quantum_Circuits-6929C4?style=flat-square" alt="Quantum Circuits"/>
+      <img src="https://img.shields.io/badge/Grover%27s_Algorithm-6929C4?style=flat-square" alt="Grover's Algorithm"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -141,13 +237,6 @@
 
 <div align="center">
 
-### 📊 Mission Control Metrics
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sarra1011&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=sarra1011&layout=compact&theme=onedark&hide=html,css"/>
-
-<br/><br/>
-
-@**sarra1011** | 📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)
+📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)
 
 </div>
