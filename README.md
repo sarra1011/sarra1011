@@ -13,9 +13,9 @@
 
 <br/>
 
-> *"Final-year Computer Science Engineering student at **ENSI** (IoT Specialization). Bridging the gap between cutting-edge AI research and real-world edge hardware, multi-agent pipelines, and autonomous environments."*[cite: 1]
+> *"Final-year Computer Science Engineering student at **ENSI** (IoT Specialization). Bridging the gap between cutting-edge AI research and real-world edge hardware, multi-agent pipelines, and autonomous environments."*
 
-⚡ **Seeking an AI / Intelligent-IoT Internship Abroad in Applied Research or Engineering!**[cite: 1]
+⚡ **Seeking an AI / Intelligent-IoT Internship Abroad in Applied Research or Engineering!**
 
 </div>
 
@@ -138,6 +138,6 @@
 
 <br/><br/>
 
-@**sarra1011** | 📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)[cite: 1]
+@**sarra1011** | 📫 **Reach out:** [LinkedIn](https://linkedin.com/in/sarra-bahlous) | [Kaggle](https://kaggle.com/sarra1011) | [Email](mailto:sarra.bahlous@ensi-uma.tn)
 
 </div>
