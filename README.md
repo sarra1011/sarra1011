@@ -23,7 +23,7 @@
 ========================================================================
 🚀 STATUS : Final-year CS Engineering Student @ ENSI (IoT Specialization)
 🎯 FOCUS  : Bridging Deep Learning Research with Edge Hardware & Agents
-🔥 MISSION: Seeking an AI / Intelligent-IoT Internship Abroad!
+🔥 MISSION: Seeking an AI / Intelligent-IoT Internship!
 ========================================================================
 ```
 
