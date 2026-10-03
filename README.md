@@ -3,9 +3,9 @@
 # 🚀 SARRA BAHLOUS
 ### `Exploring Deep Tech, Edge AI & Autonomous Systems`
 
-<img src="(https://github.com/sarra1011/sarra1011/blob/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif)" width="100%" max-width="700px" style="border-radius:12px; box-shadow: 0px 4px 20px rgba(255,100,50,0.3);" alt="Floating Astronaut Header"/>
+<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="100%" max-width="700px" style="border-radius:12px;" alt="Floating Astronaut Header"/>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarra-bahlous)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sarra1011)
@@ -18,7 +18,6 @@
 ⚡ **Seeking an AI / Intelligent-IoT Internship Abroad in Applied Research or Engineering!**[cite: 1]
 
 </div>
-
 <hr/>
 
 ### 🛰️ Core Orbit & Specializations
