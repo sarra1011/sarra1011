@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="280" style="border-radius:20px; box-shadow: 0px 0px 30px #FF007F;" alt="Floating Astronaut Header"/>
+<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="400" style="border-radius:20px; box-shadow: 0px 0px 30px #FF007F;" alt="Floating Astronaut Header"/>
 
 <br/><br/>
 
