@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ `SARRA_BAHLOUS.sys` ⚡
+# ⚡ `SARRA_BAHLOUS` ⚡
 ### `[Computer Science Engineer @ ENSI | Edge AI & Autonomous Systems]`
 
 <br/>
