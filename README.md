@@ -1,260 +1,268 @@
-<div align="center">
+\<div align="center">
 
 # ⚡ `SARRA_BAHLOUS.sys` ⚡
+
 ### `[Computer Science Engineer @ ENSI | Edge AI & Autonomous Systems]`
 
-<br/>
+\<br/>
 
-<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="280" alt="Floating Astronaut Header"/>
+\<img src="[https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif](https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif)" width="280" alt="Floating Astronaut Header"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&lines=Agentic+AI+%26+DevOps+Automation;Computer+Vision+%26+Medical+AI;Embedded+IoT+%26+TinyML+Security;Real-Time+Code-Switched+Speech+AI;Quantum+Computing+%26+Circuit+Simulations)](https://git.io/typing-svg)
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarra-bahlous)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sarra1011)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarra.bahlous@ensi-uma.tn)
+\<br/>
 
-<br/>
 
-```text
-========================================================================
+\
+
+
+\<br/>
+
+\<pre>
+\========================================================================
 🚀 STATUS : Final-year CS Engineering Student @ ENSI (IoT Specialization)
 🎯 FOCUS  : Bridging Deep Learning Research with Edge Hardware & Agents
 🔥 MISSION: Seeking an AI / Intelligent-IoT Internship!
-========================================================================
-```
+\========================================================================
+\</pre>
 
-</div>
+\</div>
 
-<hr/>
+\<hr/>
 
 ### 🛰️ Core Specializations & Domain Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & DevOps Automation</h4>
-      <p>
-        Autonomous multi-agent systems (LangGraph, CrewAI, RAG) for firmware
-        code analysis, AST DAG graph execution, CI/CD pipeline profiling,
-        and automated incident response.
-      </p>
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
 
-      <h4>👁️ Computer Vision & Speech AI</h4>
-      <p>
-        Domain generalization (CLIP-DRDG), real-time segmentation (YOLOv8),
-        and low-resource code-switched voice agent pipelines with LoRA fine-tuning.
-      </p>
-    </td>
+\<h4>🤖 Agentic AI & DevOps Automation\</h4>
 
-    <td width="50%" valign="top">
-      <h4>🛡️ Cyber-Physical Systems & SOC Security</h4>
-      <p>
-        On-node TinyML, LoRA sensor networks, zero-trust security modeling,
-        anti-spoofing protocols, and ML-powered SIEM anomaly detection
-        with Explainable AI (XAI).
-      </p>
+\<p>
+Autonomous multi-agent systems (LangGraph, CrewAI, RAG) for firmware
+code analysis, AST-to-DAG graph execution, CI/CD pipeline profiling,
+optimization, and automated incident response.
+\</p>
 
-      <h4>🔬 Quantum Computing & Exploration</h4>
-      <p>
-        Quantum circuit simulation (Qiskit) exploring superposition,
-        entanglement, elementary gates, Grover's search, and amplitude
-        amplification algorithms.
-      </p>
-    </td>
-  </tr>
-</table>
+\<h4>👁️ Computer Vision & Speech AI\</h4>
+
+\<p>
+Domain generalization (CLIP-DRDG), real-time segmentation (YOLOv8),
+and low-resource code-switched voice-agent pipelines with LoRA fine-tuning.
+\</p>&#x20;
+
+\<h4>🛡️ Cyber-Physical Systems & SOC Security\</h4>
+
+\<p>
+On-node TinyML, LoRa sensor networks, zero-trust security modeling,
+anti-spoofing protocols, and ML-powered SIEM anomaly detection
+with Explainable AI (XAI).
+\</p>
+
+\<h4>🔬 Quantum Computing & Exploration\</h4>
+
+\<p> Quantum circuit simulation (Qiskit) exploring superposition, entanglement, elementary gates, Grover's search, and amplitude amplification algorithms.&#x20;
+
+\</p>
+
+&#x20; \</tr> \</table>
 
 ---
 
 ### 🛠️ Technical Arsenal & Ecosystem
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,docker,git,github,linux,bash,react,pytorch" alt="Technical Skills"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,docker,git,github,linux,bash,react,pytorch](https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,docker,git,github,linux,bash,react,pytorch)" alt="Technical Skills"/>
+\</p>
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, C, C++, SQL, Bash, Groovy, JavaScript |
-| **AI / ML / CV** | PyTorch, TensorFlow, OpenCV, Scikit-Learn, XGBoost, Deep Learning, Computer Vision (YOLOv8, CLIP-DRDG), Anomaly Detection |
-| **Speech AI & Fine-Tuning** | LoRA Fine-Tuning, STT Benchmarking (Whisper, Deepgram, ElevenLabs), Pipecat, TTS, Hugging Face |
-| **LLM & Multi-Agent** | LangGraph, CrewAI, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Prompt Engineering, LLM APIs |
-| **Data & Backend** | FastAPI, REST APIs, PostgreSQL, Kafka, Pandas, NumPy, React, HTML/CSS |
-| **DevOps & MLOps** | Jenkins, GitHub Actions, Gerrit, Docker, Git/GitHub, Linux |
-| **IoT, Embedded & Edge** | ESP32 / ESP32-CAM, Arduino, LoRa, MQTT, TinyML, Edge AI Deployment |
-| **Systems & Cyber-Physical** | Distributed Systems, RTOS, Virtualization, Parallel Programming, IoT Security, Cyber-Physical Systems, Soft Computing |
-| **Quantum Computing** | Qiskit, Quantum Circuits, Grover's Algorithm |
+| Category                     | Skills & Tools                                                                                                            |
+| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**                | Python, C, C++, SQL, Bash, Groovy, JavaScript                                                                             |
+| **AI / ML / CV**             | PyTorch, TensorFlow, OpenCV, Scikit-Learn, XGBoost, Deep Learning, Computer Vision (YOLOv8, CLIP-DRDG), Anomaly Detection |
+| **Speech AI & Fine-Tuning**  | LoRA Fine-Tuning, STT Benchmarking (Whisper, Deepgram, ElevenLabs), Pipecat, TTS, Hugging Face                            |
+| **LLM & Multi-Agent**        | LangGraph, CrewAI, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Prompt Engineering, LLM APIs          |
+| **Data & Backend**           | FastAPI, REST APIs, PostgreSQL, Kafka, Pandas, NumPy, React, HTML/CSS                                                     |
+| **DevOps & MLOps**           | Jenkins, GitHub Actions, Gerrit, Docker, Git/GitHub, Linux                                                                |
+| **IoT, Embedded & Edge**     | ESP32 / ESP32-CAM, Arduino, LoRa, MQTT, TinyML, Edge AI Deployment                                                        |
+| **Systems & Cyber-Physical** | Distributed Systems, RTOS, Virtualization, Parallel Programming, IoT Security, Cyber-Physical Systems, Soft Computing     |
+| **Quantum Computing**        | Qiskit, Quantum Circuits, Grover's Algorithm                                                                              |
 
 ---
 
 ### 🌌 Detailed Mission Log & Engineering Experience
 
-<details open>
-  <summary><b>🏢 01. Autonomous AI Agents for Firmware CI/CD — STMicroelectronics</b> <i>(Jul - Sep 2026)</i></summary>
+\<details open>
+&#x20; \<summary>\<b>🏢 01. Autonomous AI Agents for Firmware CI/CD — STMicroelectronics\</b> \<i>(Jul - Sep 2026)\</i>\</summary>
 
-  <br/>
+\<br/>
 
-  <p><b>Role:</b> AI/DevOps Engineering Intern | Embedded Software Department, DevOps Team</p>
+\<p>\<b>Role:\</b> AI/DevOps Engineering Intern | Embedded Software Department, DevOps Team\</p>
 
-  <ul>
-    <li>
-      <b>System Architecture:</b>
-      Designed and built an autonomous multi-agent system (LangGraph, CrewAI, RAG)
-      capable of parsing firmware source code, analyzing pipeline architectures,
-      and assisting DevOps engineers in maintenance and continuous delivery.
-    </li>
+\<ul>
+&#x20; \<li>
+&#x20;   \<b>System Architecture:\</b>
+&#x20;   Designed and built an autonomous multi-agent system (LangGraph, CrewAI, RAG)
+&#x20;   capable of parsing firmware source code, analyzing pipeline architectures,
+&#x20;   and assisting DevOps engineers in maintenance and continuous delivery.
+&#x20; \</li>
 
-    <li>
-      <b>Pipeline Optimization Engine:</b>
-      Developed a graph-based parser converting Groovy AST into Directed Acyclic
-      Graphs (DAGs). Combined an LLM advisor with rule-based topological sort
-      engines to recommend parallelization and artifact caching strategies,
-      successfully cutting build execution times by <b>1h 10min</b>.
-    </li>
+&#x20; \<li>
+&#x20;   \<b>Pipeline Optimization Engine:\</b>
+&#x20;   Developed a graph-based parser converting Groovy ASTs into Directed Acyclic
+&#x20;   Graphs (DAGs). Combined an LLM advisor with rule-based topological sorting
+&#x20;   engines to recommend parallelization and artifact caching strategies,
+&#x20;   successfully cutting build execution times by \<b>1h 10min\</b>.
+&#x20; \</li>
 
-    <li>
-      <b>Stage-Targeted AI Deployment:</b>
-      Engineered specialized agents across the full deployment lifecycle:
-      <ul>
-        <li><i>Software Quality & Code Review:</i> Automated static analysis and firmware quality checks.</li>
-        <li><i>Automated Compilation & Validation:</i> Intelligent job execution and dependency management.</li>
-        <li><i>Infrastructure & Job Monitoring:</i> Real-time pipeline health tracking with early incident detection and proactive alerting.</li>
-      </ul>
-    </li>
+&#x20; \<li>
+&#x20;   \<b>Stage-Targeted AI Deployment:\</b>
+&#x20;   Engineered specialized agents across the full deployment lifecycle:
+&#x20;   \<ul>
+&#x20;     \<li>\<i>Software Quality & Code Review:\</i> Automated static analysis and firmware quality checks.\</li>
+&#x20;     \<li>\<i>Automated Compilation & Validation:\</i> Intelligent job execution and dependency management.\</li>
+&#x20;     \<li>\<i>Infrastructure & Job Monitoring:\</i> Real-time pipeline health tracking with early incident detection and proactive alerting.\</li>
+&#x20;   \</ul>
+&#x20; \</li>
 
-    <li>
-      <b>CI/CD Migration:</b>
-      Developed a QA-stage agent facilitating the migration of a
-      Gerrit-integrated firmware pipeline (8 top-level stages, 32 shared-library
-      steps) from Jenkins to GitHub Actions on self-hosted runners.
-    </li>
-  </ul>
-</details>
+&#x20; \<li>
+&#x20;   \<b>CI/CD Migration:\</b>
+&#x20;   Developed a QA-stage agent facilitating the migration of a
+&#x20;   Gerrit-integrated firmware pipeline (8 top-level stages, 32 shared-library
+&#x20;   steps) from Jenkins to GitHub Actions on self-hosted runners.
+&#x20; \</li>
+\</ul>
 
-<details>
-  <summary><b>🎙️ 02. Real-Time Voice Agent for Tunisian Derja-French Code-Switching</b></summary>
+\</details>
 
-  <br/>
+\<details>
+&#x20; \<summary>\<b>🎙️ 02. Real-Time Voice Agent for Tunisian Derja-French Code-Switching\</b>\</summary>
 
-  <ul>
-    <li>
-      <b>Low-Latency Telephony Engine:</b>
-      Built an end-to-end real-time telephone agent handling public utility
-      queries (leaks, billing, outages), featuring decoupled STT/LLM/TTS stages
-      and low-latency barge-in support.
-    </li>
+\<br/>
 
-    <li>
-      <b>Speech Benchmarking & Fine-Tuning:</b>
-      Created a benchmark evaluating Whisper, Deepgram, and ElevenLabs under
-      clean vs. noisy phone-line conditions. Designed a post-correction LoRA
-      fine-tuning workflow on 12.9 hours of code-switched Tunisian speech via
-      Hugging Face/Kaggle GPUs.
-    </li>
-  </ul>
-</details>
+\<ul>
+&#x20; \<li>
+&#x20;   \<b>Low-Latency Telephony Engine:\</b>
+&#x20;   Built an end-to-end real-time telephone agent handling public utility
+&#x20;   queries (leaks, billing, outages), featuring decoupled STT/LLM/TTS stages
+&#x20;   and low-latency barge-in support.
+&#x20; \</li>
 
-<details>
-  <summary><b>🌊 03. AquaSense — Smart Water Monitoring System</b></summary>
+&#x20; \<li>
+&#x20;   \<b>Speech Benchmarking & Fine-Tuning:\</b>
+&#x20;   Created a benchmark evaluating Whisper, Deepgram, and ElevenLabs under
+&#x20;   clean vs. noisy phone-line conditions. Designed a post-correction LoRA
+&#x20;   fine-tuning workflow on 12.9 hours of code-switched Tunisian speech via
+&#x20;   Hugging Face/Kaggle GPUs.
+&#x20; \</li>
+\</ul>
 
-  <br/>
+\</details>
 
-  <ul>
-    <li>
-      <b>Dual-Model Pipeline:</b>
-      Integrated an ESP32-CAM capture node with a <b>YOLOv8</b> pipeline
-      (99.82% segmentation, 88.12% digit reading accuracy) fed into an
-      <b>XGBoost</b> anomaly detection model (90.38% accuracy) calibrated on
-      national water utility standards.
-    </li>
+\<details>
+&#x20; \<summary>\<b>🌊 03. AquaSense — Smart Water Monitoring System\</b>\</summary>
 
-    <li>
-      <b>Production Stack:</b>
-      Served models through a FastAPI REST backend with JWT authentication
-      and an interactive React web dashboard.
-    </li>
-  </ul>
-</details>
+\<br/>
 
-<details>
-  <summary><b>🛡️ 04. TrustFire — Trustworthy Low-Cost IoT Wildfire Detection</b></summary>
+\<ul>
+&#x20; \<li>
+&#x20;   \<b>Dual-Model Pipeline:\</b>
+&#x20;   Integrated an ESP32-CAM capture node with a \<b>YOLOv8\</b> pipeline
+&#x20;   (99.82% segmentation, 88.12% digit-reading accuracy) fed into an
+&#x20;   \<b>XGBoost\</b> anomaly detection model (90.38% accuracy) calibrated on
+&#x20;   national water utility standards.
+&#x20; \</li>
 
-  <br/>
+&#x20; \<li>
+&#x20;   \<b>Production Stack:\</b>
+&#x20;   Served models through a FastAPI REST backend with JWT authentication
+&#x20;   and an interactive React web dashboard.
+&#x20; \</li>
+\</ul>
 
-  <ul>
-    <li>
-      <b>Edge TinyML & Security:</b>
-      Solar-powered LoRa sensor network implementing on-node TinyML smoke/fire
-      classification paired with time-windowed k-of-n multi-node fusion to
-      eliminate false positives.
-    </li>
+\</details>
 
-    <li>
-      <b>Threat Model & Zero-Trust:</b>
-      Built a security layer enforcing authenticated messaging, anti-replay
-      protection, and heartbeat failure detection, tested against active
-      spoofing and tampering attacks.
-    </li>
-  </ul>
-</details>
+\<details>
+&#x20; \<summary>\<b>🛡️ 04. TrustFire — Trustworthy Low-Cost IoT Wildfire Detection\</b>\</summary>
 
-<details>
-  <summary><b>🏥 05. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
+\<br/>
 
-  <br/>
+\<ul>
+&#x20; \<li>
+&#x20;   \<b>Edge TinyML & Security:\</b>
+&#x20;   Solar-powered LoRa sensor network implementing on-node TinyML smoke/fire
+&#x20;   classification paired with time-windowed k-of-n multi-node fusion to
+&#x20;   reduce false positives.
+&#x20; \</li>
 
-  <ul>
-    <li>
-      <b>Domain Generalization:</b>
-      Extended CLIP-DRDG (CoOpLVT), a vision-language framework, for diabetic
-      retinopathy grading across 4 clinical domains (APTOS, EyePACS, Messidor,
-      Messidor-2).
-    </li>
+&#x20; \<li>
+&#x20;   \<b>Threat Model & Zero-Trust:\</b>
+&#x20;   Built a security layer enforcing authenticated messaging, anti-replay
+&#x20;   protection, and heartbeat failure detection, tested against active
+&#x20;   spoofing and tampering attacks.
+&#x20; \</li>
+\</ul>
 
-    <li>
-      <b>Class Imbalance Optimization:</b>
-      Enhanced model robustness against severe class imbalance using focal loss,
-      class-balanced weighting, label smoothing, and fundus-specific data
-      augmentations.
-    </li>
-  </ul>
-</details>
+\</details>
 
-<details>
-  <summary><b>🛡️ 06. AI-Based SOC Anomaly Detection System</b></summary>
+\<details>
+&#x20; \<summary>\<b>🏥 05. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab\</b>\</summary>
 
-  <br/>
+\<br/>
 
-  <ul>
-    <li>
-      Integrated machine learning intrusion detection models with Wazuh SIEM
-      to identify suspicious authentication patterns and attack behaviors.
-    </li>
+\<ul>
+&#x20; \<li>
+&#x20;   \<b>Domain Generalization:\</b>
+&#x20;   Extended CLIP-DRDG (CoOpLVT), a vision-language framework, for diabetic
+&#x20;   retinopathy grading across four clinical domains: APTOS, EyePACS,
+&#x20;   Messidor, and Messidor-2.
+&#x20; \</li>
 
-    <li>
-      Added an Explainable AI (XAI) layer to produce interpretable security
-      alerts for Security Operations Center (SOC) analysts.
-    </li>
-  </ul>
-</details>
+&#x20; \<li>
+&#x20;   \<b>Class Imbalance Optimization:\</b>
+&#x20;   Enhanced model robustness against severe class imbalance using focal loss,
+&#x20;   class-balanced weighting, label smoothing, and fundus-specific data
+&#x20;   augmentations.
+&#x20; \</li>
+\</ul>
+
+\</details>
+
+\<details>
+&#x20; \<summary>\<b>🛡️ 06. AI-Based SOC Anomaly Detection System\</b>\</summary>
+
+\<br/>
+
+\<ul>
+&#x20; \<li>
+&#x20;   Integrated machine learning intrusion detection models with Wazuh SIEM
+&#x20;   to identify suspicious authentication patterns and attack behaviors.
+&#x20; \</li>
+
+&#x20; \<li>
+&#x20;   Added an Explainable AI (XAI) layer to produce interpretable security
+&#x20;   alerts for Security Operations Center (SOC) analysts.
+&#x20; \</li>
+\</ul>
+
+\</details>
 
 ---
 
-<div align="center">
+\<div align="center">
 
 ### 📊 Mission Control Metrics
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sarra1011&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=sarra1011&layout=compact&theme=onedark&hide=html,css" alt="Top Languages"/>
+\<img height="160" src="[https://github-readme-stats.vercel.app/api?username=sarra1011&show_icons=true&theme=onedark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=sarra1011\&show_icons=true\&theme=onedark\&include_all_commits=true\&count_private=true)" alt="GitHub Stats"/>
 
-<br/><br/>
+\<img height="160" src="[https://github-readme-stats.vercel.app/api/top-languages/?username=sarra1011&layout=compact&theme=onedark&hide=html,css](https://github-readme-stats.vercel.app/api/top-languages/?username=sarra1011\&layout=compact\&theme=onedark\&hide=html,css)" alt="Top Languages"/>
 
-@**sarra1011** · 📫 **Reach out:**  
+\<br/>\<br/>
+
+@**sarra1011** · 📫 **Reach out:**
 [LinkedIn](https://linkedin.com/in/sarra-bahlous) ·
 [Kaggle](https://kaggle.com/sarra1011) ·
-[Email](mailto:sarra.bahlous@ensi-uma.tn)
+[Email](mailto\:sarra.bahlous@ensi-uma.tn)
 
-</div>
+\</div>
