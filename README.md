@@ -314,26 +314,6 @@ flowchart LR
 </details>
 
 <details>
-  <summary><b>🌾 07. Smart Agriculture Digital Twin — Federated Learning (CRISTAL Lab, ENSI)</b></summary>
-  <br/>
-  <p><img src="https://img.shields.io/badge/Research_project_%C2%B7_Team_of_6_%C2%B7_Since_Jun_2026-7B2FF7?style=for-the-badge" alt="Research project · Team of 6 · Since Jun 2026"/></p>
-  <p><b>The challenge:</b> learn from farm data across several sites without any raw data leaving the fog node.</p>
-  <ul>
-    <li>🤝 <b>Federated Learning:</b> FedAvg over 5 simulated non-IID farm clients. Federated model reaches <b>75.1%</b> vs <b>66.8%</b> for local-only training (<b>+8.3 pts</b>), within 3.2 pts of the centralized <b>78.3%</b>, with no data centralization.</li>
-    <li>🚨 <b>Criticality modeling:</b> ML scenarios for 8 criticality classes (water deficit, flooding, heat stress, disease risk, pests, soil degradation, equipment failure, normal) and their evaluation, with a focus on critical false negatives.</li>
-    <li>🔒 <b>Agentic fog pipeline:</b> Zero Trust security, agentic digital twin components, Kafka + PostgreSQL cloud stack.</li>
-  </ul>
-  <p><img src="https://img.shields.io/badge/Federated_Learning-7B2FF7?style=flat-square" alt="Federated Learning"/>
-<img src="https://img.shields.io/badge/FedAvg-7B2FF7?style=flat-square" alt="FedAvg"/>
-<img src="https://img.shields.io/badge/Flower-7B2FF7?style=flat-square" alt="Flower"/>
-<img src="https://img.shields.io/badge/Digital_Twin-7B2FF7?style=flat-square" alt="Digital Twin"/>
-<img src="https://img.shields.io/badge/Zero_Trust-7B2FF7?style=flat-square" alt="Zero Trust"/>
-<img src="https://img.shields.io/badge/Kafka-7B2FF7?style=flat-square" alt="Kafka"/>
-<img src="https://img.shields.io/badge/PostgreSQL-7B2FF7?style=flat-square" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-7B2FF7?style=flat-square" alt="Scikit-Learn"/></p>
-</details>
-
-<details>
   <summary><b>⚛️ 08. Quantum Computing Basics — Qiskit Lab</b></summary>
   <br/>
   <p><img src="https://img.shields.io/badge/Personal_project_%C2%B7_In_progress-6929C4?style=for-the-badge" alt="Personal project · In progress"/></p>
