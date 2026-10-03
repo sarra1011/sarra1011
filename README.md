@@ -67,18 +67,18 @@
 <details open>
   <summary><b>🏢 01. Autonomous AI Agents for Firmware CI/CD — STMicroelectronics</b> <i>(Jul - Sep 2026)</i></summary>
   <br/>
-  <p><b>Role:</b> AI/DevOps Engineering Intern | Embedded Software Department, DevOps Team[cite: 1]</p>
+  <p><b>Role:</b> AI/DevOps Engineering Intern | Embedded Software Department, DevOps Team</p>
   <ul>
-    <li><b>System Architecture:</b> Designed and built an autonomous multi-agent system (LangGraph, CrewAI, RAG) capable of parsing firmware source code, analyzing pipeline architectures, and assisting DevOps engineers in maintenance and continuous delivery[cite: 1].</li>
-    <li><b>Pipeline Optimization Engine:</b> Developed a graph-based parser converting Groovy AST into Directed Acyclic Graphs (DAGs)[cite: 1]. Combined an LLM advisor with rule-based topological sort engines to recommend parallelization and artifact caching strategies, successfully cutting build execution times by <b>1h 10min</b>[cite: 1].</li>
+    <li><b>System Architecture:</b> Designed and built an autonomous multi-agent system (LangGraph, CrewAI, RAG) capable of parsing firmware source code, analyzing pipeline architectures, and assisting DevOps engineers in maintenance and continuous delivery.</li>
+    <li><b>Pipeline Optimization Engine:</b> Developed a graph-based parser converting Groovy AST into Directed Acyclic Graphs (DAGs). Combined an LLM advisor with rule-based topological sort engines to recommend parallelization and artifact caching strategies, successfully cutting build execution times by <b>1h 10min</b>.</li>
     <li><b>Stage-Targeted AI Deployment:</b> Engineered specialized agents across the full deployment lifecycle:
       <ul>
-        <li><i>Software Quality & Code Review:</i> Automated static analysis and firmware quality checks[cite: 1].</li>
-        <li><i>Automated Compilation & Validation:</i> Intelligent job execution and dependency management[cite: 1].</li>
-        <li><i>Infrastructure & Job Monitoring:</i> Real-time pipeline health tracking with early incident detection and proactive alerting[cite: 1].</li>
+        <li><i>Software Quality & Code Review:</i> Automated static analysis and firmware quality checks.</li>
+        <li><i>Automated Compilation & Validation:</i> Intelligent job execution and dependency management.</li>
+        <li><i>Infrastructure & Job Monitoring:</i> Real-time pipeline health tracking with early incident detection and proactive alerting.</li>
       </ul>
     </li>
-    <li><b>CI/CD Migration:</b> Developed a QA-stage agent facilitating the migration of a Gerrit-integrated firmware pipeline (8 top-level stages, 32 shared-library steps) from Jenkins to GitHub Actions on self-hosted runners[cite: 1].</li>
+    <li><b>CI/CD Migration:</b> Developed a QA-stage agent facilitating the migration of a Gerrit-integrated firmware pipeline (8 top-level stages, 32 shared-library steps) from Jenkins to GitHub Actions on self-hosted runners.</li>
   </ul>
 </details>
 
@@ -86,8 +86,8 @@
   <summary><b>🎙️ 02. Real-Time Voice Agent for Tunisian Derja-French Code-Switching</b></summary>
   <br/>
   <ul>
-    <li><b>Low-Latency Telephony Engine:</b> Built an end-to-end real-time telephone agent handling public utility queries (leaks, billing, outages) featuring decoupled STT/LLM/TTS stages and low-latency barge-in support[cite: 1].</li>
-    <li><b>Speech Benchmarking & Fine-Tuning:</b> Created a benchmark evaluating Whisper, Deepgram, and ElevenLabs under clean vs. noisy phone line conditions[cite: 1]. Designed a post-correction LoRA fine-tuning workflow on 12.9 hours of code-switched Tunisian speech via Hugging Face/Kaggle GPUs[cite: 1].</li>
+    <li><b>Low-Latency Telephony Engine:</b> Built an end-to-end real-time telephone agent handling public utility queries (leaks, billing, outages) featuring decoupled STT/LLM/TTS stages and low-latency barge-in support.</li>
+    <li><b>Speech Benchmarking & Fine-Tuning:</b> Created a benchmark evaluating Whisper, Deepgram, and ElevenLabs under clean vs. noisy phone line conditions. Designed a post-correction LoRA fine-tuning workflow on 12.9 hours of code-switched Tunisian speech via Hugging Face/Kaggle GPUs.</li>
   </ul>
 </details>
 
@@ -95,8 +95,8 @@
   <summary><b>🌊 03. AquaSense — Smart Water Monitoring System</b></summary>
   <br/>
   <ul>
-    <li><b>Dual-Model Pipeline:</b> Integrated an ESP32-CAM capture node with a <b>YOLOv8</b> pipeline (99.82% segmentation, 88.12% digit reading accuracy)[cite: 1] fed into an <b>XGBoost</b> anomaly detection model (90.38% accuracy) calibrated on national water utility standards[cite: 1].</li>
-    <li><b>Production Stack:</b> Served models through a FastAPI REST backend with JWT authentication and an interactive React web dashboard[cite: 1].</li>
+    <li><b>Dual-Model Pipeline:</b> Integrated an ESP32-CAM capture node with a <b>YOLOv8</b> pipeline (99.82% segmentation, 88.12% digit reading accuracy) fed into an <b>XGBoost</b> anomaly detection model (90.38% accuracy) calibrated on national water utility standards.</li>
+    <li><b>Production Stack:</b> Served models through a FastAPI REST backend with JWT authentication and an interactive React web dashboard.</li>
   </ul>
 </details>
 
@@ -104,8 +104,8 @@
   <summary><b>🛡️ 04. TrustFire — Trustworthy Low-Cost IoT Wildfire Detection</b></summary>
   <br/>
   <ul>
-    <li><b>Edge TinyML & Security:</b> Solar-powered LoRA sensor network implementing on-node TinyML smoke/fire classification paired with time-windowed k-of-n multi-node fusion to eliminate false positives[cite: 1].</li>
-    <li><b>Threat Model & Zero-Trust:</b> Built a security layer enforcing authenticated messaging, anti-replay protection, and heartbeat failure detection, tested against active spoofing and tampering attacks[cite: 1].</li>
+    <li><b>Edge TinyML & Security:</b> Solar-powered LoRA sensor network implementing on-node TinyML smoke/fire classification paired with time-windowed k-of-n multi-node fusion to eliminate false positives.</li>
+    <li><b>Threat Model & Zero-Trust:</b> Built a security layer enforcing authenticated messaging, anti-replay protection, and heartbeat failure detection, tested against active spoofing and tampering attacks.</li>
   </ul>
 </details>
 
@@ -113,8 +113,8 @@
   <summary><b>🏥 05. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
   <br/>
   <ul>
-    <li><b>Domain Generalization:</b> Extended CLIP-DRDG (CoOpLVT), a vision-language framework, for diabetic retinopathy grading across 4 clinical domains (APTOS, EyePACS, Messidor, Messidor-2)[cite: 1].</li>
-    <li><b>Class Imbalance Optimization:</b> Enhanced model robustness against severe class imbalance using focal loss, class-balanced weighting, label smoothing, and fundus-specific data augmentations[cite: 1].</li>
+    <li><b>Domain Generalization:</b> Extended CLIP-DRDG (CoOpLVT), a vision-language framework, for diabetic retinopathy grading across 4 clinical domains (APTOS, EyePACS, Messidor, Messidor-2).</li>
+    <li><b>Class Imbalance Optimization:</b> Enhanced model robustness against severe class imbalance using focal loss, class-balanced weighting, label smoothing, and fundus-specific data augmentations.</li>
   </ul>
 </details>
 
@@ -122,8 +122,8 @@
   <summary><b>🛡️ 06. AI-Based SOC Anomaly Detection System</b></summary>
   <br/>
   <ul>
-    <li>Integrated machine learning intrusion detection models with Wazuh SIEM to identify suspicious authentication patterns and attack behaviors[cite: 1].</li>
-    <li>Added an Explainable AI (XAI) layer to produce interpretable security alerts for Security Operations Center (SOC) analysts[cite: 1].</li>
+    <li>Integrated machine learning intrusion detection models with Wazuh SIEM to identify suspicious authentication patterns and attack behaviors.</li>
+    <li>Added an Explainable AI (XAI) layer to produce interpretable security alerts for Security Operations Center (SOC) analysts.</li>
   </ul>
 </details>
 
