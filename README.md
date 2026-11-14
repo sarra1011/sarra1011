@@ -5,11 +5,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="350" style="border-radius:20px; box-shadow: 0px 0px 30px #FF007F;" alt="Floating Astronaut Header"/>
+<img src="https://raw.githubusercontent.com/sarra1011/sarra1011/main/Fun%20Floating%20GIF%20by%20Tomas%20Brunsdon.gif" width="350" alt="Floating Astronaut Header"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&lines=Agentic+AI+%26+DevOps+Automation;Computer+Vision+%26+Medical+AI;Embedded+IoT+%26+TinyML+Security;Real-Time+Code-Switched+Speech+AI;Quantum+Computing+%26+Circuit+Simulations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&lines=Agentic+AI+%26+DevOps+Automation;Security+ML+%26+SOC+Anomaly+Detection;Computer+Vision+%26+Medical+AI;Embedded+IoT+%26+TinyML+Security;Real-Time+Code-Switched+Speech+AI;Quantum+Computing+%26+Circuit+Simulations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 ========================================================================
 🚀 STATUS : Final-year CS Engineering Student @ ENSI (IoT Specialization)
 🎯 FOCUS  : Bridging Deep Learning Research with Edge Hardware & Agents
-🔥 MISSION: Seeking an AI / Intelligent-IoT Internship!
+🔥 MISSION: Seeking a 2027 end-of-studies internship (PFE) in AI / ML
 ========================================================================
 ```
 
@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ Cyber-Physical Systems & SOC Security</h4>
-      <p>On-node TinyML, LoRA sensor networks, zero-trust security modeling, anti-spoofing protocols, and ML-powered SIEM anomaly detection with Explainable AI (XAI).</p>
+      <p>On-node TinyML, LoRa sensor networks, zero-trust security modeling, anti-spoofing protocols, and a hybrid SOC detection pipeline: MITRE ATT&CK-mapped rules plus unsupervised ML, with live alerting and explainable incidents.</p>
       <h4>🔬 Quantum Computing & Exploration</h4>
       <p>Quantum circuit simulation (Qiskit) exploring superposition, entanglement, elementary gates, Grover’s search, and amplitude amplification algorithms.</p>
     </td>
@@ -83,6 +83,7 @@
       <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square" alt="YOLOv8"/>
       <img src="https://img.shields.io/badge/CLIP--DRDG-FF6F00?style=flat-square" alt="CLIP-DRDG"/>
       <img src="https://img.shields.io/badge/Anomaly_Detection-FF6F00?style=flat-square" alt="Anomaly Detection"/>
+      <img src="https://img.shields.io/badge/Isolation_Forest-FF6F00?style=flat-square" alt="Isolation Forest"/>
     </td>
   </tr>
   <tr>
@@ -119,6 +120,7 @@
       <img src="https://img.shields.io/badge/Pandas-009688?style=flat-square" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-009688?style=flat-square" alt="NumPy"/>
       <img src="https://img.shields.io/badge/React-009688?style=flat-square" alt="React"/>
+      <img src="https://img.shields.io/badge/Streamlit-009688?style=flat-square" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/HTML%2FCSS-009688?style=flat-square" alt="HTML/CSS"/>
     </td>
   </tr>
@@ -131,6 +133,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker"/>
       <img src="https://img.shields.io/badge/Git%2FGitHub-2496ED?style=flat-square" alt="Git/GitHub"/>
       <img src="https://img.shields.io/badge/Linux-2496ED?style=flat-square" alt="Linux"/>
+      <img src="https://img.shields.io/badge/pytest-2496ED?style=flat-square" alt="pytest"/>
     </td>
   </tr>
   <tr>
@@ -157,6 +160,17 @@
     </td>
   </tr>
   <tr>
+    <td width="26%" valign="middle"><b>🛡️ Security & Detection</b></td>
+    <td width="74%" valign="middle">
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-B42318?style=flat-square" alt="MITRE ATT&CK"/>
+      <img src="https://img.shields.io/badge/Log_Analysis-B42318?style=flat-square" alt="Log Analysis"/>
+      <img src="https://img.shields.io/badge/Detection_Rules-B42318?style=flat-square" alt="Detection Rules"/>
+      <img src="https://img.shields.io/badge/Incident_Response-B42318?style=flat-square" alt="Incident Response"/>
+      <img src="https://img.shields.io/badge/OpenSSH_%2F_iptables-B42318?style=flat-square" alt="OpenSSH / iptables"/>
+      <img src="https://img.shields.io/badge/OWASP_ISVS-B42318?style=flat-square" alt="OWASP ISVS"/>
+    </td>
+  </tr>
+  <tr>
     <td width="26%" valign="middle"><b>⚛️ Quantum Computing</b></td>
     <td width="74%" valign="middle">
       <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square" alt="Qiskit"/>
@@ -176,6 +190,7 @@
     <td align="center"><h3>🎯 99.82%</h3><sub>meter segmentation accuracy</sub></td>
     <td align="center"><h3>🗣️ 12.9 h</h3><sub>code-switched speech for LoRA</sub></td>
     <td align="center"><h3>🌐 4 domains</h3><sub>retinopathy generalization</sub></td>
+    <td align="center"><h3>🛡️ 0 false</h3><sub>SOC incidents, all attacks caught</sub></td>
   </tr>
 </table>
 
@@ -265,8 +280,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Python-20BEFF?style=flat-square" alt="Python"/></p>
 </details>
 
-
-
 <details>
   <summary><b>🏥 04. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
   <br/>
@@ -286,16 +299,34 @@ flowchart LR
 <details>
   <summary><b>🛡️ 05. AI-Based SOC Anomaly Detection System</b></summary>
   <br/>
-  <p><img src="https://img.shields.io/badge/Cybersecurity_%C2%B7_ML-607D8B?style=for-the-badge" alt="Cybersecurity · ML"/></p>
+  <p><img src="https://img.shields.io/badge/Personal_project_%C2%B7_Cybersecurity_%C3%97_ML-B42318?style=for-the-badge" alt="Personal project · Cybersecurity × ML"/> <a href="https://github.com/sarra1011/ai-soc-anomaly-detection"><img src="https://img.shields.io/badge/View_repo-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="View repo"/></a></p>
+  <p><b>The challenge:</b> a SOC analyst drowns in alerts. Turn thousands of raw SSH and sudo log lines into a handful of ranked, explained incidents, without crying wolf.</p>
+
+```mermaid
+flowchart LR
+    A[auth.log<br/>sshd + sudo] --> B[Parser +<br/>window features]
+    B --> C[7 rules<br/>MITRE ATT&CK]
+    B --> D[Isolation Forest<br/>unsupervised]
+    C --> E[Incidents<br/>CRITICAL / HIGH / REVIEW]
+    D --> E
+    E --> F[Live dashboard<br/>Telegram alerts]
+```
+
   <ul>
-    <li>🕵️ <b>ML intrusion detection</b> integrated with Wazuh SIEM to spot suspicious authentication patterns and attack behaviors.</li>
-    <li>💡 <b>Explainable AI layer</b> producing interpretable alerts so SOC analysts can see why something was flagged.</li>
+    <li>🧩 <b>Hybrid detection:</b> 7 detection rules mapped to MITRE ATT&CK (brute force, password spraying, compromise after failures, privilege escalation, slow and distributed attacks) combined with an unsupervised Isolation Forest that surfaces what no rule covers.</li>
+    <li>🎯 <b>Zero false incidents:</b> <b>17/17</b> attack episodes caught on a hard unseen dataset built with stealth attacks and benign look-alikes, and <b>6/6</b> on real attacks launched against a real OpenSSH server.</li>
+    <li>📊 <b>Honest evaluation:</b> 5 unsupervised models benchmarked (Isolation Forest best, <b>PR-AUC 0.987</b>), a sequence model reported as a negative result, a run on public Loghub logs, and a written limitations section.</li>
+    <li>🚨 <b>Real time:</b> live detector with incident deduplication, Telegram and e-mail alerts, a Streamlit dashboard, and an IP blocker that is dry-run by default and refuses private or allow-listed addresses.</li>
+    <li>✅ <b>Engineering:</b> 19 unit tests, GitHub Actions CI, one-command reproducible pipeline.</li>
   </ul>
-  <p><img src="https://img.shields.io/badge/Wazuh-607D8B?style=flat-square" alt="Wazuh"/>
-<img src="https://img.shields.io/badge/SIEM-607D8B?style=flat-square" alt="SIEM"/>
-<img src="https://img.shields.io/badge/Anomaly_Detection-607D8B?style=flat-square" alt="Anomaly Detection"/>
-<img src="https://img.shields.io/badge/XAI-607D8B?style=flat-square" alt="XAI"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-607D8B?style=flat-square" alt="Scikit-Learn"/></p>
+  <p><img src="https://img.shields.io/badge/Python-B42318?style=flat-square" alt="Python"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-B42318?style=flat-square" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Isolation_Forest-B42318?style=flat-square" alt="Isolation Forest"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-B42318?style=flat-square" alt="MITRE ATT&CK"/>
+<img src="https://img.shields.io/badge/Streamlit-B42318?style=flat-square" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Telegram_Alerts-B42318?style=flat-square" alt="Telegram Alerts"/>
+<img src="https://img.shields.io/badge/OpenSSH-B42318?style=flat-square" alt="OpenSSH"/>
+<img src="https://img.shields.io/badge/pytest_%2B_CI-B42318?style=flat-square" alt="pytest + CI"/></p>
 </details>
 
 <details>
