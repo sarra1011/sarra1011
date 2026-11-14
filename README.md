@@ -265,25 +265,10 @@ flowchart LR
 <img src="https://img.shields.io/badge/Python-20BEFF?style=flat-square" alt="Python"/></p>
 </details>
 
-<details>
-  <summary><b>🛡️ 04. TrustFire — Trustworthy Low-Cost IoT Wildfire Detection</b></summary>
-  <br/>
-  <p><img src="https://img.shields.io/badge/IoT_%C2%B7_Security_%C2%B7_TinyML-FF6F00?style=for-the-badge" alt="IoT · Security · TinyML"/></p>
-  <p><b>The challenge:</b> a wildfire sensor network must never cry wolf, and must not be fooled by an attacker.</p>
-  <ul>
-    <li>🔥 <b>Edge TinyML:</b> solar-powered LoRa sensor network with on-node smoke/fire classification and time-windowed <b>k-of-n multi-node fusion</b> to eliminate false positives.</li>
-    <li>🔐 <b>Zero-trust security layer:</b> authenticated messaging, anti-replay protection, heartbeat failure detection, tested against active spoofing and tampering attacks.</li>
-  </ul>
-  <p><img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square" alt="TinyML"/>
-<img src="https://img.shields.io/badge/LoRa-FF6F00?style=flat-square" alt="LoRa"/>
-<img src="https://img.shields.io/badge/ESP32-FF6F00?style=flat-square" alt="ESP32"/>
-<img src="https://img.shields.io/badge/MQTT-FF6F00?style=flat-square" alt="MQTT"/>
-<img src="https://img.shields.io/badge/Zero_Trust-FF6F00?style=flat-square" alt="Zero Trust"/>
-<img src="https://img.shields.io/badge/Anti--Replay-FF6F00?style=flat-square" alt="Anti-Replay"/></p>
-</details>
+
 
 <details>
-  <summary><b>🏥 05. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
+  <summary><b>🏥 04. Medical Imaging AI for Diabetic Retinopathy — LARODECK Lab</b></summary>
   <br/>
   <p><img src="https://img.shields.io/badge/AI_Internship_%C2%B7_Summer_2025-00A86B?style=for-the-badge" alt="AI Internship · Summer 2025"/></p>
   <p><b>The challenge:</b> a model trained on one hospital's retinal scans often fails on another's.</p>
@@ -299,7 +284,7 @@ flowchart LR
 </details>
 
 <details>
-  <summary><b>🛡️ 06. AI-Based SOC Anomaly Detection System</b></summary>
+  <summary><b>🛡️ 05. AI-Based SOC Anomaly Detection System</b></summary>
   <br/>
   <p><img src="https://img.shields.io/badge/Cybersecurity_%C2%B7_ML-607D8B?style=for-the-badge" alt="Cybersecurity · ML"/></p>
   <ul>
@@ -314,7 +299,7 @@ flowchart LR
 </details>
 
 <details>
-  <summary><b>⚛️ 07. Quantum Computing Basics — Qiskit Lab</b></summary>
+  <summary><b>⚛️ 06. Quantum Computing Basics — Qiskit Lab</b></summary>
   <br/>
   <p><img src="https://img.shields.io/badge/Personal_project_%C2%B7_In_progress-6929C4?style=for-the-badge" alt="Personal project · In progress"/></p>
   <ul>
